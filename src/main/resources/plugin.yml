@@ -1,0 +1,5 @@
+name: Insta_Mine_Deepslate
+version: '${project.version}'
+main: io.github.dailystruggle.insta_mine_deepslate.Insta_Mine_Deepslate
+api-version: 1.19
+authors: [ leaf26 ]
